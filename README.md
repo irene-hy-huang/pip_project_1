@@ -1,4 +1,6 @@
-# My first project
+# Taiwan Bank currency crawler 
+
+第一個台股爬蟲
 
 
 test
